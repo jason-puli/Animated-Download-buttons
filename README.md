@@ -1,3 +1,3 @@
-Pure HTML and CSS /n
-Glow + smooth transition
-Responsive and clickable
+Pure HTML and CSS, 
+Glow + smooth transition, 
+Responsive and clickable.
